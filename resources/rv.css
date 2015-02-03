@@ -1,0 +1,235 @@
+/* https://kuler.adobe.com/Desert-color-theme-2805697/edit/?copy=true&base=2&rule=Custom&selected=4&name=Copy%20of%20Desert&mode=rgb&rgbvalues=0.7803921568627451,0.25098039215686274,0.1607843137254902,0.9803921568627451,0.9098039215686274,0.803921568627451,0.4109004085634642,0.7811227458544974,0.81,0.2196078431372549,0.3137254901960784,0.3215686274509804,1,0.7208333333333561,0.2833333333333333 */
+
+body,
+html {
+	margin:0;
+	padding:0;
+	color:#000;
+	font: normal 90% "Helvetica Neue", helvetica, arial, sans-serif;
+	background: #695b58;
+	
+}
+
+#info_banner {
+	padding: 1em 1.5em;
+	background: #FFB848;
+}
+
+.nav {
+	padding: 0.5em 1.5em 0em 1.5em;
+	background: #fff;
+	border-bottom: 1px solid #F1B636;
+	border-top: 1px solid #F1B636;
+}
+.nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.nav li {
+	display:inline;
+	margin:0;
+	padding:0;
+}
+
+#footer {
+	font: 80% arial, helvetica, sans-serif;
+	clear: both;
+	padding: 10px 45px 20px 40px;
+	background: #FFB848;
+}
+
+#wrap {
+	width:680px;
+	margin:0 auto;
+	background:#fff;
+	border: 1px solid #333;
+}
+
+#header {
+	padding: 1em 94px;
+	background: url('MA+S_logo_gray.png') 15px 8px no-repeat #fff;
+}
+#header h2 {
+	margin: 0;
+}
+
+.h1 {
+	font-size: 160%;
+	font-weight: bold;
+	margin-top: 0em;
+	margin-bottom: 0;
+}
+.h1sub {
+	font-size: 110%;
+	font-weight: bold;
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
+}
+.h2 {
+	font-size: 120%;
+	font-style: italic;
+	line-height: 1em;
+	font-weight: bold;
+	margin: 1em 0em;
+}
+.h2sub {
+	font-size: 100%;
+	font-style: italic;
+	font-weight: normal;
+	margin: 0.5em 0em;
+}
+.h3 {
+	font-size: 100%;
+	margin: 1.5em 0 0.5em 0;
+	line-height: 1em;
+	font-weight: bold;
+}
+
+.greyed_out {
+	color: DarkGrey;
+}
+.next_up {
+/* 
+	background-image: url('red_triangle.jpeg');
+	background-repeat: no-repeat;
+ */
+	background-color: #FAE8CD;
+}
+
+
+
+#semester_select {
+    float: right;
+}
+
+table {
+  width: 100%;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+col.date_col {
+  width: 6em;
+}
+col.text_col {
+  width: auto;
+}
+td {
+  vertical-align: text-top;
+  text-align: left;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+p {
+  vertical-align: top;
+	line-height: 1.4em;
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0.5em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+p.date {
+	font-weight: bold;
+}
+p.speaker {
+	margin-bottom: 1em;
+	font-weight: bold;
+}
+span.affiliation {
+  font-weight: normal;
+  font-style: normal;
+}
+p.title {
+  margin-bottom: 0.5em;
+  margin-left: 1.5em;
+  font-weight: bold;
+  color: #444;
+}
+p.abstract {
+  margin-bottom: 0.5em;
+	margin-left: 1.5em;
+  color: #666;
+}
+p.video_link {
+  margin-bottom: 0.25em;
+	margin-left: 1.5em;
+  color: #666;
+}
+p.video_link a {
+  color: #666;
+}
+.font_normal {
+	font-weight: normal;
+}
+
+a {
+/* 
+	text-decoration: none;
+ */
+}
+a:link {
+	color: #183466;
+	background: transparent;
+}
+a:visited {
+	color: #600;
+	background: transparent;
+}
+a:active {
+	color: #339;
+	background: transparent;
+}
+a:hover {
+	color: black;
+	background: transparent;
+}
+a.anchor:link {
+  text-decoration: none;
+}
+a.anchor:hover {
+  text-decoration: underline;
+}
+
+#main {
+	float: left;
+	width: 595px;
+	padding-top: 10px;
+	padding-left: 40px;
+	padding-right: 45px;
+	padding-bottom: 10px;
+	background: #fff;
+}
+#main li {
+	margin-bottom: 0.5em;
+}
+.mainsection { 
+	padding: 0 0 2em;
+	border-bottom: 1px solid #ccc; 
+}
+.lastsection {
+	padding: 0 0 1em;
+}
+
+#footer ul {
+	margin-bottom: 1.5em;
+	padding: 0;
+	list-style: none;
+}
+#footer li {
+	display:inline;
+	margin:0;
+	padding:0;
+}
+#footer p {
+	margin-top: 0.5em;
+}
+#footer p.NIH {
+	margin-right: 200px;
+}
+#footer p.update {
+	font-style: italic;
+}

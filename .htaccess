@@ -1,0 +1,6 @@
+Redirect 301 /Rendezvous/spring_2015.html /Rendezvous/index.html?semester=Spring_2015
+Redirect 301 /Rendezvous/fall_2014.html /Rendezvous/index.html?semester=Fall_2014
+Redirect 301 /Rendezvous/spring_2014.html /Rendezvous/index.html?semester=Spring_2014
+Redirect 301 /Rendezvous/fall_2013.html /Rendezvous/index.html?semester=Fall_2013
+Redirect 301 /Rendezvous/spring_2013.html /Rendezvous/index.html?semester=Spring_2013
+Redirect 301 /Rendezvous/fall_2012.html /Rendezvous/index.html?semester=Fall_2012
